@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @hemant2725.
+- 👋 Hi, I’m Hemant Singh.
+- Pursuing B.Tech in Information Technology at Harcourt Butler Technical University.
 - 👀 I’m interested in **Learning** new technologies and improving my skills.
 - 🌱 I’m currently learning [Data Structures and Algorithms].
 - 😄 Pronouns: he/him
