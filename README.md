@@ -1,9 +1,3 @@
-
-
-# 💫 About Me:
-- 👋 Hi, I’m Hemant Singh.<br>- 🏛️ Pursuing B.Tech in Information Technology at Harcourt Butler Technical University.<br>- 👀 I’m interested in **Learning** new technologies and improving my skills.<br>- 🌱 I’m currently learning [Data Structures and Algorithms].<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I can recite the first 10 digits of pi from memory!<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-singh-0aa97023b)
 
