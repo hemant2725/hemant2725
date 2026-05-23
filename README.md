@@ -122,11 +122,15 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemant2725&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=hemant2725&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2725&layout=compact&theme=tokyonight&langs_count=10)
+<br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hemant2725&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2725&layout=compact&theme=tokyonight&langs_count=10" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=hemant2725&theme=tokyonight&hide_border=false" />
 
 </div>
 
