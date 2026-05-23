@@ -4,8 +4,6 @@
 
 # Hi 👋, I'm Hemant Singh
 
-### Full Stack Developer | Open Source Enthusiast | Tech Explorer
-
 ---
 
 ## 🚀 About Me
